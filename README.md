@@ -10,11 +10,11 @@ Carlos Eduardo Machado de Oliveira
 Desenvolver um Webservice SOAP do lado da publicação (Publisher) e do lado do consumo (Consumer) dos serviços, aplicando os conceitos iniciais de arquitetura orientada a serviços (SOA).
 
 ## Integrantes do Grupo
-- (Inserir nome do integrante 1 - RM)
-- (Inserir nome do integrante 2 - RM)
-- (Inserir nome do integrante 3 - RM)
-- (Inserir nome do integrante 4 - RM)
-- (Inserir nome do integrante 5 - RM)
+- Higor Kauan Bezerra Batista - RM558907
+- Eric Yuji Ito - RM554869
+- Bento Rangel da Silva - RM559124
+- Ricardo Cerazi di Tilia - RM555155
+- Kaue Pires Moreira - RM554403
 
 ## Estrutura do Projeto
 
